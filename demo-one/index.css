@@ -1,0 +1,19 @@
+.waterfall {
+    overflow: hidden;
+    margin: 0px 10px;
+}
+
+.single-image {
+    float: left;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.single-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.single-image img:hover {
+    transform: scale(1.3, 1.3);
+}
